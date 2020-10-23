@@ -1,0 +1,16 @@
+Public class switchcase{
+Public static void main(strings[]args)
+Int choice;
+System.out.println("pick:1.hi\t2.hey\t3.hello\t");
+Scanner s=new scanner(scanner.in);
+Choice=s.nextInt();
+Switch choice()
+{
+Case 1: system.out.println("you said hi");
+   Break;
+Case 2: system.out.println("you said hi");
+   Break;
+Case 3: system.out.println("you said hi");
+   Break;
+}
+}
